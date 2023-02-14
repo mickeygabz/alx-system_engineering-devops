@@ -30,11 +30,11 @@ All of the following files are scripts:
 | `22-users_and_homes` | Write a script that displays all users and their home directories, sorted by users.Based on the the /etc/passwd file|
 | `100-empty_casks` | Write a command that finds all empty files and directories in the current directory and all sub-directories.|
 | `101-gifs` | Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.|
-| `102-acrosti` | An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The word comes from the French acrostiche from post-classical Latin acrostichis). As a form of constrained writing, an acrostic can be used as a mnemonic device to aid memory retrieval. Read more.
+| `102-acrosti` | An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The word comes from the French acrostiche from post-classical Latin acrostichis). As a form of constrained writing, an acrostic can be used as a mnemonic device to aid memory retrieval.Create a script that decodes acrostics that use the first letter of each line.The ‘decoded’ message has to end with a new line,You are not allowed to use grep, egrep, fgrep or rgrep|
+| `103-the_biggest_fan` | Write a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
 
-Create a script that decodes acrostics that use the first letter of each line.
-
-    The ‘decoded’ message has to end with a new line
+    Order by number of requests, most active host or IP at the top
     You are not allowed to use grep, egrep, fgrep or rgrep
 |
+
 
